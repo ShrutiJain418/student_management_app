@@ -1,4 +1,4 @@
-# kudosware_assignment
+# Student Management App
 
 A new Flutter project.
 

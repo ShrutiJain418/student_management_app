@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993095345294",
+    "project_id": "student-management-app-28dd0",
+    "storage_bucket": "student-management-app-28dd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993095345294:android:0039066d372e8323d695df",
+        "android_client_info": {
+          "package_name": "com.example.kudosware_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoyZEUAigIyqctaajIiDlsSy2oWT2NztM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
